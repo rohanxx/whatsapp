@@ -1,0 +1,37 @@
+.fulldiv{
+    height:100%;
+    width:50%;
+    margin: auto;
+}
+.leftdiv{
+    width: 100%;
+   margin: auto;
+  
+
+}
+
+
+.registerbtn{
+    width: 100%;
+    margin: auto;
+    color: #FCF6F5FF;
+    background-color: #990011FF;
+    height: 40px;
+    border: none;
+    font-size: 25px;
+    font-weight: 700;
+}
+.titlesub{
+background-color: #990011FF;
+color: #FCF6F5FF;
+
+}
+.input-group {
+    position: relative;
+    display: table;
+    border-collapse: separate;
+    margin-left: 68px;
+}
+input{
+    height: 50px;
+}

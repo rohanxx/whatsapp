@@ -1,0 +1,101 @@
+/* 
+.bigdiv{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+.box{
+    width: 100%;
+    border: none;
+}
+.login{
+    width:50%;
+    font-size: large;
+    padding:0px;
+    margin-right: 3px;
+}
+.inrdiv{
+    width: 100%;
+    border-bottom: 2px solid gray;
+    margin: auto;
+    display: flex;
+}
+.inrdiv:after{
+    border-bottom:solid blue;
+}
+
+
+
+.form-control {
+    box-shadow: none;
+    border: none;
+    outline: none;
+    height: auto;
+}
+
+.upper-text {
+    text-align: left;
+    color: gray;
+}
+.upper-text > p {
+    font-size: 12pt;
+}
+.outside{
+    margin: auto;
+    background-color: white;
+  
+}
+.icon{
+    padding: 7px; 
+     font-size: 20pt; 
+     background-color: white;
+} */
+
+
+.fulldiv{
+    width: 50%;
+    height: 100%;
+    margin: auto;
+}
+
+.leftdiv{
+    height: 330px;
+    margin: 0 auto;
+    border: 2px solid black;
+    margin-left: 10%;
+    margin-top: 10%;
+    background: #FCF6F5FF;
+}
+
+.signbtn{
+    width: 100%;
+    margin: auto;
+    color: #FCF6F5FF;
+    background-color: #990011FF;
+    height: 40px;
+    border: none;
+    font-size: 25px;
+    font-weight: 700;
+}
+.input-group {
+    position: relative;
+    display: table;
+    border-collapse: separate;
+    margin-left: 68px;
+}
+input{
+    height: 50px;
+}
+.bottom-text {
+    line-height: 100px;
+    font-size: 10pt;
+    background: brown;
+    padding: 13px;
+    /* width: 99px; */
+    color: #fff;
+    /* background-color: brown; */
+}
+
+.btn-container {
+    display:flex;
+}

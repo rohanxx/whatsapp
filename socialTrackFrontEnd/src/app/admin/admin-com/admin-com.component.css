@@ -1,0 +1,24 @@
+.top-div{
+    height: 100%;
+    width: 100%;
+}
+
+table {
+    width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.icon-container i{
+    margin: 0px 10px;
+    cursor: pointer;
+}
+
+.addbtn-container {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    padding: 25px 150px 0px 0px;
+}
+

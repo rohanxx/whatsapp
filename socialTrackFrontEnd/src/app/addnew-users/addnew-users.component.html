@@ -1,0 +1,72 @@
+<div class="fulldiv">
+    <div class="titlesub">
+        <h2 style="text-align: center;">Register</h2>
+       <p style="text-align: center;">Create Your New Account. It Takes Few Minute.</p>
+   </div>
+        <form [formGroup]="RegisterForm" (ngSubmit)="Register()" style="    margin: 45px 135px 135px 135px;">
+            
+           
+
+            <div class="leftdiv">
+                <div class="row" style="margin: 0;">
+                    <div class="form-group col-sm-6">
+                        <label for="FirstName" class="form-label">Firstname</label>
+                        <div>
+                            <input type="text" name="FirstName" class="form-control" formControlName="F_name"
+                            required/>
+                        </div>
+                    </div>
+                    <div class="form-group col-sm-6">
+                        <label for="LastName" class="form-label">Lastname</label>
+                        <div>
+                            <input type="text" name="LastName" class="form-control" formControlName="L_name"
+                            required/>
+                        </div>
+                    </div>
+
+                </div>
+
+                    <div class="form-group col-sm-12">
+                        <label for="PhoneNumber" class="form-label">Contact Number</label>
+                        <div>
+                            <input type="number" name="PhoneNumber" class="form-control" formControlName="mobile_n"
+                            required/>
+                        </div>
+                    </div>
+                    <div class="form-group col-sm-12">
+                        <label for="Email" class="form-label">Email</label>
+                        <div>
+                            <input type="email" name="Email" class="form-control" formControlName="email"
+                            required/>
+                        </div>
+                    </div>
+              
+
+
+
+
+
+
+               
+                    <div class="form-group col-sm-12">
+                        <label for="Password" class="form-label">Password</label>
+                        <div>
+                            <input type="password" name="password" class="form-control" formControlName="password"
+                            required/>
+                        </div>
+                    </div>
+                    <div class="form-group col-sm-12">
+                        <label for="conPassword" class="form-label"> Confirm Password</label>
+                        <div>
+                            <input type="password" name="conformpassword" class="form-control" formControlName="confirmPassword"
+                            required/>
+                        </div>
+                    </div>
+            </div>
+           
+            <div>
+                <button type="submit" class="registerbtn"> Register</button>
+                
+            </div>
+        </form>
+</div>

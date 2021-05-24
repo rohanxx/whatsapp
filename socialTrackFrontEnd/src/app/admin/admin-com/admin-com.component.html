@@ -1,0 +1,106 @@
+<app-header></app-header>
+
+<div class="top-div">
+<div class="inner-div">
+  <div class="addbtn-container">
+    <button class="btn btn-primary" (click)="addAdmin.open()">Add New</button>
+  </div>
+  
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">Email</th>
+            <th scope="col">Firstname</th>
+            <th scope="col">Lastname</th>
+            <th scope="col">Contact</th>
+            <th scope="col">Actions</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let item of Adminlist">
+            <td>{{item.email}}</td>
+            <td>{{item.firstName}}</td>
+            <td>{{item.lastName}}</td>
+            <td>{{item.contact_No}}</td>
+            <td class="icon-container">
+              <i class="fas fa-edit" (click)="openAdminPopup(item)"></i>
+              <i class="fas fa-trash-alt" (click)="DeleteAdmin(item.id)"></i>
+            </td>
+          </tr>
+
+          <tr *ngIf="!Adminlist">
+            <td></td>
+            <td></td>
+            <td>No Record Found</td>
+          </tr>
+        </tbody>
+    </table>
+</div>
+</div>
+
+
+<!-- Add Admin -->
+<modal #addAdmin>
+  <modal-content>
+      <form [formGroup]="adminForm" (ngSubmit)="addNewAdmin()">
+        <div class="form-group">
+          <label for="firstname">First Name </label> &nbsp;
+          <input type="text" name="firstname" formControlName="firstname" class="form-control">
+        </div>
+       
+        <div class="form-group">
+          <label for="lastname">Last Name </label>&nbsp;
+          <input type="text" name="lastname" formControlName="lastname" class="form-control">
+        </div>
+       
+       <div class="form-group">
+        <label for="email">Email </label>&nbsp;
+        <input type="text" name="email" formControlName="email" class="form-control">
+       </div>
+        <div class="form-group">
+          <label for="contact">Contact </label>&nbsp;
+          <input type="text" name="contact" formControlName="contact" class="form-control">
+        </div>
+
+        <div class="form-group">
+          <label for="password">Password </label>&nbsp;
+          <input type="password" name="password" formControlName="password" class="form-control">
+        </div>
+        <button class="btn btn-primary" type="submit">Add</button>
+      </form>
+  </modal-content>
+</modal>  
+
+<!-- Update admin -->
+<modal #updateAdmin>
+  <modal-content>
+      <form [formGroup]="adminForm" (ngSubmit)="updateAdminData()">
+        <div class="form-group">
+          <label for="firstname">First Name </label> &nbsp;
+          <input type="text" name="firstname" formControlName="firstname" class="form-control">
+        </div>
+       
+        <div class="form-group">
+          <label for="lastname">Last Name </label>&nbsp;
+          <input type="text" name="lastname" formControlName="lastname" class="form-control">
+        </div>
+       
+       <div class="form-group">
+        <label for="email">Email </label>&nbsp;
+        <input type="text" name="email" formControlName="email" class="form-control" disabled>
+       </div>
+        <div class="form-group">
+          <label for="contact">Contact </label>&nbsp;
+          <input type="text" name="contact" formControlName="contact" class="form-control">
+        </div>
+        <div class="form-group">
+          <label for="password">Password </label>&nbsp;
+          <input type="password" name="password" formControlName="password" class="form-control">
+        </div>
+        <button class="btn btn-primary" type="submit">Update</button>
+      </form>
+  </modal-content>
+</modal>  
+
+
+<app-footer></app-footer>

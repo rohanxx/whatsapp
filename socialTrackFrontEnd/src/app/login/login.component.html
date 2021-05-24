@@ -1,0 +1,69 @@
+<!-- <div class="outside" style="padding: 30px;">
+    <form [formGroup]="LogInForm" (ngSubmit)="login()">
+        
+        <div class="upper-text">
+            <h1 style="text-align: center;">Sign in</h1>
+            
+        </div>
+        <div class="bigdiv">
+            <div style="padding:5px">
+                <div class="inrdiv">
+                    <i class="fa fa-envelope icon"></i>
+                    <input type="text" class="form-control box" placeholder="EmailAddress" formControlName="email"
+                        required />
+
+                </div>
+            </div>
+            <div style="padding:5px">
+                <div class="inrdiv">
+                    <i class="fa fa-lock icon"></i>
+                    <input type="password" class="form-control box" placeholder="Password" formControlName="password"
+                        required />
+
+                </div>
+            </div>
+           
+            <div style="padding:5px">
+                <input type="submit" value="Login" class="login">
+            </div>
+            
+        </div>
+    </form>
+</div> -->
+<div class="fulldiv">
+    <div class="leftdiv">
+        <form [formGroup]="LogInForm" (ngSubmit)="login()" style="margin: 45px 135px 135px 135px;">
+            <div class="form-group col-sm-12">
+                <label for="Email" class="form-label">Email</label>
+                <div>
+                    <input type="email" name="Email" class="form-control" formControlName="email">
+                    <span class="text-danger"
+                    *ngIf="(LogInFormControls.email.touched || submitted) && LogInFormControls.email.errors?.required">
+                    Email is required
+                </span>
+                </div>
+            </div>
+            <div class="form-group col-sm-12">
+                <label for="Password" class="form-label">Password</label>
+                <div>
+                    <input type="password" name="Password" class="form-control" formControlName="password">
+                    <span class="text-danger"
+                    *ngIf="(LogInFormControls.password.touched || submitted) && LogInFormControls.password.errors?.required">
+                    Password is required
+                </span>
+                </div>
+            </div>
+           
+                <!-- <div style="padding-left: 105px;" >
+                     <a [routerLink]="['/deshbord']" class="bottom-text">SingIn</a>
+                </div> -->
+                <br>
+                <div class="btn-container col-sm-12">
+                    <button type="submit" class="btn btn-success" style="margin-right: 15px;">Login</button>
+                </div>
+           
+            
+        </form>
+
+    </div>
+</div>

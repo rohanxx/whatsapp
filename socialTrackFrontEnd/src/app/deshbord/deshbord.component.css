@@ -1,0 +1,41 @@
+.fullpage{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+
+}
+.facebook{
+    background-color:  #3b5998;
+    /* height: 400px; */
+    /* background-image: url(src/assets/image/facebook-512.png); */
+    background-repeat: no-repeat;
+
+}
+.whatsapp{
+    background-color: #25D366;
+    /* height: 400px; */
+    /* background-image: url(src/assets/image/whatsapp.png); */
+    background-repeat: no-repeat;
+}
+.instagram{
+    background-color: #ECE5DD;
+    /* height: 400px; */
+    /* background-image: url(src/assets/image/174855.png); */
+    background-repeat: no-repeat;
+}
+row{
+    padding-left: 0;
+    padding-right: 0;
+}
+img {
+    vertical-align: middle;
+    width: 56%;
+    padding: 22px 20px 20px 20px;
+    line-height: 10px;
+}
+.title{
+    font-size: 36px;
+    font-family: monospace;
+    font-weight: 500;
+    color: #fff;
+}

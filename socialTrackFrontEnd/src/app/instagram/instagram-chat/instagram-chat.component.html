@@ -1,0 +1,43 @@
+<div class="tophead"></div>
+<div class="chat-contener">
+    <div class="col-md-4">
+        <table class="table table-hover">
+
+            <tbody>
+                <tr *ngFor="let data of chats " (click)="OpenChat(data.sendTo)">
+                    <td><img src="assets/image/profile.jpg" class="profile-pic"></td>
+                    <td> {{data.sendTo}}<br><small>{{data.messsage}} </small></td>
+                    <td><small>{{data.receiveTime |date:"mediumDate"}}</small></td>
+                </tr>
+
+
+            </tbody>
+        </table>
+    </div>
+    <div class="col-md-8">
+        <div class="inbox-table-scroll Inbox">
+            <table class="table sortable">
+                <tbody>
+
+                    <tr *ngFor="let data of chatInfo">
+                        <td *ngIf="data.direction=='Incoming'">
+                            <p class="bg-primary shadow-sm inside-left">{{data.message}}<br><small
+                                    style="float: right;">{{data.receiveTime}}</small></p>
+                        </td>
+                        <td *ngIf="data.direction=='Outgoing'">
+                            <p class="bg-primary shadow-sm inside-right">{{data.message}}<br><small
+                                    style="float:right;">{{data.sentTime}}</small></p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+
+        <div class=text-box>
+            
+        </div>
+    </div>
+
+</div>
+

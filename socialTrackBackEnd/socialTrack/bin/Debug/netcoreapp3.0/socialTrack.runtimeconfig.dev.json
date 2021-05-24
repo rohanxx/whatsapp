@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\amydo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\amydo\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+.sidebar {
+    background-color: gray;
+    height: 720px;
+}
+
+.table {
+    text-align: left;
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+
+    font-size: 20pt;
+}
+
+.icon-class {
+    padding-right: 2px;
+}
+
+.sidebar-text {
+    margin:auto;
+}
+.profilediv{
+    padding-top:70px; 
+    font-size: 20px;
+    width:50%
+}

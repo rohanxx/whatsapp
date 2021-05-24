@@ -1,0 +1,13 @@
+.tophead{
+    height:100px;
+    width: 100%;
+    background-color: rgb(8, 61, 54);
+}
+.chat-contener{
+    width:80%;
+    margin: auto;
+    background-color: darkgray;
+}
+.text-box{
+    height: 40px;
+}

@@ -1,0 +1,407 @@
+C:\Users\amydo\source\repos\socialTrack\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.csprojAssemblyReference.cache
+C:\Users\amydo\source\repos\socialTrack\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.AssemblyInfoInputs.cache
+C:\Users\amydo\source\repos\socialTrack\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.AssemblyInfo.cs
+C:\Users\amydo\source\repos\socialTrack\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.csproj.CoreCompileInputs.cache
+C:\Users\amydo\source\repos\socialTrack\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amydo\source\repos\socialTrack\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.exe
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.deps.json
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.runtimeconfig.json
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.runtimeconfig.dev.json
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.pdb
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\Twilio.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\obj\Debug\netcoreapp3.0\staticwebassets\socialTrack.StaticWebAssets.Manifest.cache
+C:\Users\amydo\source\repos\socialTrack\socialTrack\obj\Debug\netcoreapp3.0\staticwebassets\socialTrack.StaticWebAssets.xml
+C:\Users\amydo\source\repos\socialTrack\socialTrack\obj\Debug\netcoreapp3.0\scopedcss\bundle\socialTrack.styles.css
+C:\Users\amydo\source\repos\socialTrack\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.RazorTargetAssemblyInfo.cache
+C:\Users\amydo\source\repos\socialTrack\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.csproj.CopyComplete
+C:\Users\amydo\source\repos\socialTrack\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.dll
+C:\Users\amydo\source\repos\socialTrack\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.pdb
+C:\Users\amydo\source\repos\socialTrack\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.genruntimeconfig.cache
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\appsettings.Development.json
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\appsettings.json
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.exe
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.deps.json
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.runtimeconfig.json
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.runtimeconfig.dev.json
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.pdb
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Twilio.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\socialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.AssemblyInfoInputs.cache
+E:\socialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.AssemblyInfo.cs
+E:\socialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.csproj.CoreCompileInputs.cache
+E:\socialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.MvcApplicationPartsAssemblyInfo.cs
+E:\socialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.MvcApplicationPartsAssemblyInfo.cache
+E:\socialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\staticwebassets\socialTrack.StaticWebAssets.Manifest.cache
+E:\socialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\staticwebassets\socialTrack.StaticWebAssets.xml
+E:\socialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\scopedcss\bundle\socialTrack.styles.css
+E:\socialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.RazorTargetAssemblyInfo.cache
+E:\socialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.csproj.CopyComplete
+E:\socialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.dll
+E:\socialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.pdb
+E:\socialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.genruntimeconfig.cache
+E:\socialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.csprojAssemblyReference.cache
+E:\socialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\WhatsAppApi.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\appsettings.json
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\appsettings.Development.json
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.exe
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.deps.json
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.runtimeconfig.json
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.runtimeconfig.dev.json
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.pdb
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Twilio.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\WhatsAppApi.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.csprojAssemblyReference.cache
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.AssemblyInfoInputs.cache
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.AssemblyInfo.cs
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.csproj.CoreCompileInputs.cache
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.MvcApplicationPartsAssemblyInfo.cs
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.MvcApplicationPartsAssemblyInfo.cache
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\staticwebassets\socialTrack.StaticWebAssets.Manifest.cache
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\staticwebassets\socialTrack.StaticWebAssets.xml
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\scopedcss\bundle\socialTrack.styles.css
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.RazorTargetAssemblyInfo.cache
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.csproj.CopyComplete
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.dll
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.pdb
+G:\Whatsapp integration\Whatsapp-integration\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.genruntimeconfig.cache
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.exe
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.deps.json
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.runtimeconfig.json
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.runtimeconfig.dev.json
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.pdb
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Twilio.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\WhatsAppApi.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.AssemblyInfoInputs.cache
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.AssemblyInfo.cs
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.csproj.CoreCompileInputs.cache
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\staticwebassets\socialTrack.StaticWebAssets.Manifest.cache
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\staticwebassets\socialTrack.StaticWebAssets.xml
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\scopedcss\bundle\socialTrack.styles.css
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.RazorTargetAssemblyInfo.cache
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.csproj.CopyComplete
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.pdb
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.genruntimeconfig.cache
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.csprojAssemblyReference.cache
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.exe
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.deps.json
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.runtimeconfig.json
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.runtimeconfig.dev.json
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.pdb
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Twilio.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\WhatsAppApi.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.csprojAssemblyReference.cache
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.AssemblyInfoInputs.cache
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.AssemblyInfo.cs
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.csproj.CoreCompileInputs.cache
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\staticwebassets\socialTrack.StaticWebAssets.Manifest.cache
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\staticwebassets\socialTrack.StaticWebAssets.xml
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\scopedcss\bundle\socialTrack.styles.css
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.RazorTargetAssemblyInfo.cache
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.csproj.CopyComplete
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.dll
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.pdb
+C:\Users\amydo\Downloads\newrar\SocialTrack\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.genruntimeconfig.cache
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.exe
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.deps.json
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.runtimeconfig.json
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.runtimeconfig.dev.json
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.pdb
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Twilio.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\WhatsAppApi.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.csprojAssemblyReference.cache
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.AssemblyInfoInputs.cache
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.AssemblyInfo.cs
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.csproj.CoreCompileInputs.cache
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\staticwebassets\socialTrack.StaticWebAssets.Manifest.cache
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\staticwebassets\socialTrack.StaticWebAssets.xml
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\scopedcss\bundle\socialTrack.styles.css
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.RazorTargetAssemblyInfo.cache
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.csproj.CopyComplete
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.dll
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.pdb
+C:\Users\r\Downloads\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.genruntimeconfig.cache
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.exe
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.deps.json
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.runtimeconfig.json
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.runtimeconfig.dev.json
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.pdb
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\Twilio.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\WhatsAppApi.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.csprojAssemblyReference.cache
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.AssemblyInfoInputs.cache
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.AssemblyInfo.cs
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.csproj.CoreCompileInputs.cache
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\staticwebassets\socialTrack.StaticWebAssets.Manifest.cache
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\staticwebassets\socialTrack.StaticWebAssets.xml
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\scopedcss\bundle\socialTrack.styles.css
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.RazorTargetAssemblyInfo.cache
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.csproj.CopyComplete
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.dll
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.pdb
+C:\Users\amydo\Downloads\newrar\socialTrackbackend\socialTrackbackend\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.genruntimeconfig.cache
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\appsettings.Development.json
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\appsettings.json
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.exe
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.deps.json
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.runtimeconfig.json
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.runtimeconfig.dev.json
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\socialTrack.pdb
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\Twilio.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\WhatsAppApi.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.csprojAssemblyReference.cache
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.AssemblyInfoInputs.cache
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.AssemblyInfo.cs
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.csproj.CoreCompileInputs.cache
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\obj\Debug\netcoreapp3.0\staticwebassets\socialTrack.StaticWebAssets.Manifest.cache
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\obj\Debug\netcoreapp3.0\staticwebassets\socialTrack.StaticWebAssets.xml
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\obj\Debug\netcoreapp3.0\scopedcss\bundle\socialTrack.styles.css
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.RazorTargetAssemblyInfo.cache
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.csproj.CopyComplete
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.dll
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.pdb
+E:\Projects\Mark_Project\SocialTrack\socialTrackBackEnd\socialTrack\obj\Debug\netcoreapp3.0\socialTrack.genruntimeconfig.cache
